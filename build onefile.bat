@@ -1,0 +1,1 @@
+python -m nuitka "%~dp0cps_tracker.py" --standalone --onefile --enable-plugin=tk-inter --windows-icon-from-ico="%~dp0assets\app.ico" --windows-console-mode=disable --windows-company-name="FireNinja7365" --windows-product-name="CPS Tracker" --windows-file-version="1.0.0.0" --windows-product-version="1.0.0.0" --windows-file-description="CPS Tracker"

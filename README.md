@@ -1,6 +1,5 @@
 # CPS-Tracker
-
-## Simple clicks per second tracker
+Simple clicks per second tracker
 
 ## Included Features
 - Eat your mouse cursor
